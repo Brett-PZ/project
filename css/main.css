@@ -1,0 +1,285 @@
+body{
+  width:100%;
+}
+
+h1{
+  text-align: center;
+  width:36em;
+  margin:0 auto;
+  max-width: 100%;
+  font-size: 32px;
+}
+iframe{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:1em 1em;
+  width:90%;
+  height:90%;
+}
+a {
+    color:#00ff00;
+}
+a:visited {
+    color:#ffff00;
+}
+
+a:hover {
+    color:#00ff00;
+}
+
+a:focus {
+    color:#00ff00;
+}
+
+a:active {
+    color:#00ff00;
+}
+
+/*used https://www.codecademy.com/en/forum_questions/53b9a9237c82ca1266000d1b for reference for above hyperlink color format*/
+
+p{
+  text-align: center;
+  width:40em;
+  margin:0 auto;
+  max-width: 100%;
+  font-size: 18px;
+
+}
+
+
+.section{
+    background-attachment: fixed;
+    background-size: auto 80%;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+#bigpic1{
+  height:55%;
+}
+#bigpic2{
+  height: 55%;
+}
+#bigpic3{
+  height:55%;
+}
+#bigpic4{
+  height:55%;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  width: 90%;
+  height: 90%;
+  padding: 1em 1em;
+}
+
+#toobig{
+  width:75%;
+  height:50%;
+}
+#bigtext{
+  font-size: 14px;
+}
+#bigtext1{
+  font-size: 14px;
+}
+#bigtext2{
+  font-size: 14px;
+}
+#btn1{
+  align-items: center;
+
+}
+    #btn2{
+    align-items: center;
+
+  }
+#btn3{
+  align-items: center;
+
+}
+#btn4{
+  align-items: center;
+}
+
+#para1{
+  padding:1em;
+}
+#para2{
+  padding:1em;
+}
+#para3{
+  padding:1em;
+}
+#para4{
+  padding:1em;
+}
+#section0{
+  background-color: #6A5ACD
+}
+#section1{
+  background-color: #3399ff
+}
+#section2{
+  background-color: #7B68EE
+}
+#section3{
+  background-color: #b3ccff
+}
+#section4{
+  background-color: #663399
+}
+#section5{
+  background-color: #800080
+}
+#section6{
+  background-color: #8B008B
+}
+#section7{
+  background-color: #9932CC
+}
+#section8{
+  background-color: #9400D3
+}
+#section9{
+  background-color: #8A2BE2
+}
+#section10{
+  background-color: #9370DB
+}
+#section11{
+  background-color: #BA55D3
+}
+#section12{
+  background-color: #C71585
+}
+#section13{
+  background-color: #F08080
+}
+#section14{
+  background-color: #DA70D6
+}
+#section15{
+  background-color: #EE82EE
+}
+#section16{
+  background-color: #DDA0DD
+}
+#section17{
+  background-color: #DB7093
+}
+#section18{
+  background-color: #336699
+
+}
+#section19{
+  background-color: #00ccff
+
+}
+@media (min-width: 320px) and (max-width: 480px) {
+
+
+body{
+  width:50%;
+}
+
+h1{
+  text-align: center;
+  width:10em;
+  margin:0 auto;
+  max-width: 30%;
+  font-size: 4px;
+}
+iframe{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:.5em .5em;
+  width:20%;
+  height:20%;
+}
+
+
+p{
+  text-align: center;
+  width:20em;
+  margin:0 auto;
+  max-width: 50%;
+  font-size: 10px;
+
+}
+
+
+.section{
+    background-attachment: fixed;
+    background-size: auto 80%;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+#bigpic1{
+  height:10%;
+}
+#bigpic2{
+  height: 10%;
+}
+#bigpic3{
+  height:10%;
+}
+#bigpic4{
+  height:10%;
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  width: 30%;
+  height: 30%;
+  padding: .5em .5em;
+}
+
+#toobig{
+  width:10%;
+  height:10%;
+}
+#bigtext{
+  font-size: 8px;
+}
+#bigtext1{
+  font-size: 8px;
+}
+#bigtext2{
+  font-size: 8px;
+}
+#btn1{
+  align-items: center;
+
+}
+    #btn2{
+    align-items: center;
+
+  }
+#btn3{
+  align-items: center;
+
+}
+#btn4{
+  align-items: center;
+}
+
+#para1{
+  padding:.5em;
+}
+#para2{
+  padding:.5em;
+}
+#para3{
+  padding:.5em;
+}
+#para4{
+  padding:.5em;
+}
+}
